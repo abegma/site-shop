@@ -1,0 +1,22 @@
+.headerBlock{
+    background: #34343A;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+}
+
+.logoCompany{
+    width: 177px;
+    height: 41.12px;
+    margin-left: 88px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.searchInput{
+    width: 573px;
+    height: 39px;
+    padding-top: -100px;
+    margin-left: 169px;
+    border-radius: 6px;
+}
